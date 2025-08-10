@@ -9,6 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e1f90fa-2c55-4839-8d4b-a4f929824701" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuraGAS.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/AuraGAS.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="cidr-memory-view://4" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://B:/UEProjects/AuraGAS/AuraGAS.uproject" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/AbilitySystem/AuraAttributeSet.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/AbilitySystem/AuraAttributeSet.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Private/Character/AuraEnemy.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -80,7 +82,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Uproject.AuraGAS.executor": "Debug",
+    "Uproject.AuraGAS.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -179,7 +181,7 @@
       <workItem from="1754530141741" duration="18905000" />
       <workItem from="1754613868956" duration="3801000" />
       <workItem from="1754619628066" duration="7637000" />
-      <workItem from="1754786965443" duration="13443000" />
+      <workItem from="1754786965443" duration="16199000" />
     </task>
     <servers />
   </component>

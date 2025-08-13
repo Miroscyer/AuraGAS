@@ -13,10 +13,12 @@
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/HUD/AuraHUD.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/HUD/AuraHUD.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/WidgetController/AuraWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/WidgetController/AuraWidgetController.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/WidgetController/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/WidgetController/OverlayWidgetController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Public/Player/AuraPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Public/Player/AuraPlayerController.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Public/UI/WidgetController/AuraWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Public/UI/WidgetController/AuraWidgetController.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Public/UI/WidgetController/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Public/UI/WidgetController/OverlayWidgetController.h" afterDir="false" />
     </list>
@@ -32,26 +34,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="cidr-memory-view://3" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacter.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Private/Character/AuraEnemy.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Player/AuraPlayerController.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Private/Player/AuraPlayerState.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/UI/HUD/AuraHUD.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/UI/HUD/AuraHUD.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/UI/WidgetController/AuraWidgetController.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/UI/WidgetController/AuraWidgetController.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/UI/WidgetController/OverlayWidgetController.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Public/Character/AuraCharacterBase.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Player/AuraPlayerController.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Player/AuraPlayerController.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Public/Player/AuraPlayerState.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/UI/HUD/AuraHUD.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/UI/WidgetController/AuraWidgetController.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/UI/WidgetController/AuraWidgetController.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/UI/WidgetController/OverlayWidgetController.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Core/Public/Delegates/Delegate.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Core/Public/Misc/AssertionMacros.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/CoreUObject/Public/Templates/Casts.h" root0="FORCE_HIGHLIGHTING" />
@@ -73,6 +60,7 @@
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Engine/Private/PlayerController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Engine/Private/SpectatorPawn.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Engine/Public/Net/UnrealNetwork.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/UMG/Public/Blueprint/UserWidget.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -83,24 +71,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Uproject.AuraGAS.executor": "Debug",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Uproject.AuraGAS.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AuraGAS" type="Uproject" factoryName="rider.uproject">
       <configuration_1 setup="1">
@@ -192,7 +180,8 @@
       <workItem from="1754786965443" duration="16261000" />
       <workItem from="1754878276741" duration="2552000" />
       <workItem from="1754896346430" duration="6160000" />
-      <workItem from="1754962674085" duration="9944000" />
+      <workItem from="1754962674085" duration="16820000" />
+      <workItem from="1755053981209" duration="5231000" />
     </task>
     <servers />
   </component>

@@ -8,7 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e1f90fa-2c55-4839-8d4b-a4f929824701" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/Subwidget/WBP_EffectMessage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/Subwidget/WBP_EffectMessage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/WidgetController/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/WidgetController/OverlayWidgetController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Public/UI/WidgetController/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Public/UI/WidgetController/OverlayWidgetController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +186,8 @@
       <workItem from="1755267479079" duration="2667000" />
       <workItem from="1755309824760" duration="14770000" />
       <workItem from="1755393685002" duration="11787000" />
-      <workItem from="1755485023906" duration="7489000" />
+      <workItem from="1755485023906" duration="8123000" />
+      <workItem from="1755534343210" duration="1387000" />
     </task>
     <servers />
   </component>

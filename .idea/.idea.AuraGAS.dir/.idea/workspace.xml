@@ -9,11 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2e1f90fa-2c55-4839-8d4b-a4f929824701" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/WidgetController/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Private/UI/WidgetController/OverlayWidgetController.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Public/UI/WidgetController/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Public/UI/WidgetController/OverlayWidgetController.h" afterDir="false" />
     </list>
@@ -29,40 +26,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/AuraGAS/UHT/AuraEffectActor.gen.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/AbilitySystem/AuraAbilitySystemComponent.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/AbilitySystem/AuraAbilitySystemComponent.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacter.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacter.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraEnemy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraEnemy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Private/Character/AuraEnemy.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Private/Player/AuraPlayerState.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/AbilitySystem/AuraAbilitySystemComponent.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/AbilitySystem/AuraAbilitySystemComponent.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Actor/AuraEffectActor.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Actor/AuraEffectActor.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraCharacter.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraCharacter.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Public/Character/AuraCharacterBase.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraEnemy.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraEnemy.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Public/Player/AuraPlayerState.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Core/Public/Delegates/Delegate.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Core/Public/Delegates/DelegateCombinations.h" root0="FORCE_HIGHLIGHTING" />
@@ -89,6 +57,8 @@
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Engine/Private/SpectatorPawn.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Engine/Public/Net/UnrealNetwork.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Experimental/Chaos/Public/GeometryCollectionProxyData.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/GameplayTags/Private/GameplayTagContainer.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/UMG/Public/Blueprint/UserWidget.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -217,7 +187,7 @@
       <workItem from="1755267479079" duration="2667000" />
       <workItem from="1755309824760" duration="14770000" />
       <workItem from="1755393685002" duration="11787000" />
-      <workItem from="1755485023906" duration="2743000" />
+      <workItem from="1755485023906" duration="6890000" />
     </task>
     <servers />
   </component>

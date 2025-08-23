@@ -1,9 +1,8 @@
 // Copyright Miros
 
+#include "Player/AuraPlayerController.h"
 #include "EnhancedInputSubsystems.h"
 #include "EnhancedInputComponent.h"
-#include "Player/AuraPlayerController.h"
-
 #include "Interaction/EnemyInterface.h"
 
 AAuraPlayerController::AAuraPlayerController()

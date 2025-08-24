@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e1f90fa-2c55-4839-8d4b-a4f929824701" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e1f90fa-2c55-4839-8d4b-a4f929824701" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,40 +20,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/AuraGAS/UHT/AuraEffectActor.gen.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacter.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacter.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Private/Character/AuraEnemy.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraEnemy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraEnemy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Interaction/CombatInterface.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Player/AuraPlayerState.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Private/Player/AuraPlayerState.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Player/AuraPlayerState.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraCharacter.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraCharacter.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraCharacterBase.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraCharacterBase.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Public/Character/AuraCharacterBase.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraEnemy.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Character/AuraEnemy.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Interaction/CombatInterface.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Player/AuraPlayerState.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Public/Player/AuraPlayerState.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/AuraGAS/Public/Player/AuraPlayerState.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Core/Public/Delegates/Delegate.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UE_5.6/Engine/Source/Runtime/Core/Public/Delegates/DelegateCombinations.h" root0="FORCE_HIGHLIGHTING" />
@@ -220,7 +189,7 @@
       <workItem from="1755738834677" duration="7793000" />
       <workItem from="1755823537328" duration="3008000" />
       <workItem from="1755910955305" duration="11285000" />
-      <workItem from="1756017337337" duration="797000" />
+      <workItem from="1756017337337" duration="1418000" />
     </task>
     <servers />
   </component>

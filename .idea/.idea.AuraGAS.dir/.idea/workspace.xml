@@ -9,10 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2e1f90fa-2c55-4839-8d4b-a4f929824701" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AuraGAS.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Private/Character/AuraCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Private/Character/AuraCharacterBase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/AuraGAS/Public/Character/AuraCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AuraGAS/Public/Character/AuraCharacterBase.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +36,6 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="cidr-memory-view://12" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/AuraGAS/UHT/AuraEffectActor.gen.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacter.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://B:/UEProjects/AuraGAS/Source/AuraGAS/Private/Character/AuraCharacter.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -224,7 +219,8 @@
       <workItem from="1755654480777" duration="3145000" />
       <workItem from="1755738834677" duration="7793000" />
       <workItem from="1755823537328" duration="3008000" />
-      <workItem from="1755910955305" duration="10983000" />
+      <workItem from="1755910955305" duration="11285000" />
+      <workItem from="1756017337337" duration="797000" />
     </task>
     <servers />
   </component>
